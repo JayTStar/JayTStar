@@ -34,7 +34,7 @@
       <img height="28em" alt="React" src="https://img.shields.io/static/v1?message=ReactJs&logo=react&labelColor=61DAFB&color=61DAFB&logoColor=black&label=%20&style=for-the-badge">
       <img height="28em" alt="Styled-Components" src="https://img.shields.io/static/v1?message=styled-components&logo=styled-components&labelColor=DB7093&color=DB7093&logoColor=white&label=%20&style=for-the-badge">
       <img height="28em" alt="Webpack" src="https://img.shields.io/static/v1?message=Webpack&logo=Webpack&labelColor=8DD6F9&color=8DD6F9&logoColor=4E4E4E&label=%20&style=for-the-badge">
-      <img height="28em" alt="Webpack" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
+      <img height="28em" alt="Next" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
     </p>
 
 -   _**Back-end**_
@@ -42,6 +42,13 @@
       <img alt="Node.js" src="https://img.shields.io/static/v1?message=Node.js&logo=Node.js&labelColor=339933&color=339933&logoColor=white&label=%20&style=for-the-badge">
       <img alt="Express" src="https://img.shields.io/static/v1?message=Express&logo=Express&labelColor=000000&color=000000&logoColor=white&label=%20&style=for-the-badge">
       <img alt="Prisma" src="https://img.shields.io/static/v1?message=Prisma&logo=Prisma&labelColor=2D3748&color=2D3748&logoColor=white&label=%20&style=for-the-badge">
+    </p>
+    
+-   _**Libraries**_
+    <p>
+      <img alt="Ionic" src="https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white">
+      <img alt="JWT" src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens">
+      <img alt="Socket.io" src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101">
     </p>
 
 -   _**Bancos de dados**_
@@ -81,7 +88,8 @@
 
 -   _**Sistemas operacionais**_
     <p>
-    <img alt="Linux" src="https://img.shields.io/static/v1?message=Linux&logo=Linux&labelColor=FCC624&color=FCC624&logoColor=black&label=%20&style=for-the-badge">
+    <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+    <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
     </p>
 
 ##
