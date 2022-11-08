@@ -3,7 +3,7 @@
 ### Estou estudando para me tornar desenvolvedor software.
 <br>
 
-  ### 📊 Status do GitHub
+  ## 📊 Status do GitHub
 
   <div style="width:100%">
     <a href="https://github.com/JayTStar">
@@ -12,7 +12,7 @@
     </a>
   </div>
 
-  ### 📧 Meus contatos
+  ## 📱 Meus contatos:
   
   <div>
     <a href="https://www.linkedin.com/in/jorge-tadeu-soares-batalha-638280173/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -20,7 +20,7 @@
   </div> 
   
 
-  ### ⚒️ Minha stack
+  ## ⚒️ Minha stack
 -   _**Linguagens**_
     <p>
       <img alt="HTML 5" src="https://img.shields.io/static/v1?message=HTML5&logo=HTML5&labelColor=E34F26&color=E34F26&logoColor=white&label=%20&style=for-the-badge">
