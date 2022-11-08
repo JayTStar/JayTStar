@@ -1,8 +1,3 @@
-<div align="right">
-
-<a align="right" href="https://github.com/lemoscaio">🔁 Change to English.  <img height="14em" src="https://github.com/hampusborgos/country-flags/blob/main/png100px/us.png"></a>
-
-</div>
 
 ## Oi! Meu nome é Jorge Tadeu.
 ### Sou desenvolvedor de software.
@@ -16,16 +11,6 @@
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayTStar&layout=compact&langs_count=7&theme=radical"/>
     </a>
   </div>
-
-  ### 🕛 Wakatime
-
-  <div align="left">
-
-  [![wakatime](https://wakatime.com/badge/user/28e917fb-bdf9-451a-862c-e1dbe97f3940.svg)](https://wakatime.com/@28e917fb-bdf9-451a-862c-e1dbe97f3940)
-  
-  </div>
-  
-
 
   ### 📧 Meus contatos
   
