@@ -20,7 +20,7 @@
   </div> 
   
 
-  ## ⚒️ Minha stack
+  ## ⚒️ Minha stack:
 -   _**Linguagens**_
     <p>
       <img alt="HTML 5" src="https://img.shields.io/static/v1?message=HTML5&logo=HTML5&labelColor=E34F26&color=E34F26&logoColor=white&label=%20&style=for-the-badge">
