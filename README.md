@@ -1,6 +1,6 @@
 
 ## Oi! Meu nome é Jorge Tadeu.
-### Sou desenvolvedor de software.
+### Estou estudando para me tornar desenvolvedor software.
 <br>
 
   ### 📊 Status do GitHub
