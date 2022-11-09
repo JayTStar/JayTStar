@@ -1,6 +1,8 @@
 
 ## Oi! Meu nome é Jorge Tadeu.
-### Estou estudando para me tornar desenvolvedor de software.
+### Sou desenvolvedor de software formado pela Driven.
+
+
 <br>
 
   ## 📱 Meus contatos:
